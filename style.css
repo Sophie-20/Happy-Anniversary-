@@ -1,0 +1,91 @@
+body{
+    background-color: (url="bg.gif") ;
+    font-family: 'Raleway', sans-serif;
+    background-size: 1300px;
+    height: 855px;
+}
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px grey;
+    font-family: 'Raleway', sans-serif;   font-weight: bold;
+    text-align: center;
+}
+.heading_div {
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Raleway', sans-serif;
+margin-left: 450px;
+}
+
+.heading_div2 {
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;}
+
+.header_div img{
+    width: 100px;
+    
+}
+.main_div{
+    background-color: lightcoral;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.main_div label{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 5px whitesmoke ;
+}
+#camera, #result{
+    border: 2px dotted rgb(144, 255, 192);
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 5px rgb(144, 255, 192);
+    
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px sienna;
+}
+.footer_div h4{
+background: white;
+width: 100%;
+border-radius: 10px;
+padding: 5px;
+box-shadow: 5px 5px 18px white;
+text-align: left;
+
+}
+.footer_div img{
+width: 70px;
+
+}
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: f5f5f5;
+    line-height: 3;
+    text-align:center;
+}
+img {
+border-radius: 50px;
+width: 90px;
+height:90px;
+}
+
+.backgif{
+    width: 60px;
+    height:60px;
+}
